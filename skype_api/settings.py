@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4h7-ut=t(4)4c7d#$i-&-e#r%qs@4upp$556uzo-0&b*9*2u3l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jarvis-skype-api.azurewebsites.net']
 
 
 # Application definition
