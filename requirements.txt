@@ -62,8 +62,6 @@ pytest==7.4.3
 python-dateutil==2.9.0.post0
 pythonnet==3.0.3
 pytz==2023.3.post1
-pywin32==306
-pywin32-ctypes==0.2.2
 readchar==4.0.6
 requests==2.31.0
 rich==13.7.1
@@ -84,11 +82,8 @@ typing_extensions==4.11.0
 tzdata==2023.3
 urllib3==2.2.1
 virtualenv==20.24.6
-virtualenvwrapper-win==1.2.7
 wcwidth==0.2.13
 whichcraft==0.6.1
-win11toast==0.34
-winsdk==1.0.0b10
 wsproto==1.2.0
 xmod==1.8.1
 zope.event==5.0
